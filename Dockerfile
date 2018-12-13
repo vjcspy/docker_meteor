@@ -1,4 +1,4 @@
-FROM node:8.11.4
+FROM node:8.14
 MAINTAINER Khoi Le <mr.vjcspy@gmail.com>
 
 # openssh-server
